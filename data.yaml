@@ -1,0 +1,7 @@
+path: /home/ketu/Desktop/projects/Artificial Intelligence- Deep Learning/YOLO-tryout/dataset/YOLOdownload/datasets
+train: /home/ketu/Desktop/projects/Artificial Intelligence- Deep Learning/YOLO-tryout/dataset/YOLOdownload/datasets/train
+test: /home/ketu/Desktop/projects/Artificial Intelligence- Deep Learning/YOLO-tryout/dataset/YOLOdownload/datasets/test
+val: /home/ketu/Desktop/projects/Artificial Intelligence- Deep Learning/YOLO-tryout/dataset/YOLOdownload/datasets/valid
+
+nc: 7
+names: ["Angular Leafspot", "Anthracnose Fruit Rot", "Blossom Blight", "Gray Mold", "Leaf Spot", "Powdery Mildew Fruit", "Powdery Mildew Leaf"]
